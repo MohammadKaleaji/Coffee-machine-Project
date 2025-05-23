@@ -34,7 +34,7 @@
 
 # cup_pos = min(p,q,r)
 # Write your code here
-water_cap = 400
+water_cap = 500
 milk_cap = 540
 coffee_cap = 120
 disposable_cups = 9
