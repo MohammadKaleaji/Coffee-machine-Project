@@ -158,6 +158,11 @@ while True:
 # else:
 #    print("No, I can make only" + str(cup_pos) +  "cups of coffee")
 
+def greet(name):
+    print(f"Hello {name}")
+
+greet('Awis')
+
 
 
 
