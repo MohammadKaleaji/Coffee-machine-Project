@@ -163,6 +163,11 @@ def greet(name):
 
 greet('Awis')
 
+def greet(name):
+    print(f"Hello {name}")
+
+greet('Kaleaji')
+
 
 
 
